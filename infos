@@ -1,0 +1,34 @@
+-
+# Anotações
+
+## autoprefixer
+- Corrige o CSS para funcionar em todos os browser (ex: webkit, etc)
+
+## Storybook
+- Ferramente para visualizar nossos componentes de forma isoladas 
+
+<Descrição: visualizar em varios estados possiveis, também é possivel compartilhar com demais devs do time para criar uma documentação do nossos componentes
+
+
+## Radix-ui
+- Ferramente de componentes não estilizados
+
+-
+
+
+## Prática
+- [x] Criando projeto React
+- [x] Configurando Tailwind
+- [x] Importando fonte
+- [x] Setup do Storybook
+- [x] Importando tokens
+- ### Componentes:
+    - [x] Text
+    - [x] Heading
+    - [x] Button
+    - [x] TextInput
+    - [x] Checkbox
+
+- [x] Configurando Arg Types
+
+
