@@ -1,6 +1,8 @@
 -
 # Anotações
 
+# Tailwindcss
+
 ## autoprefixer
 - Corrige o CSS para funcionar em todos os browser (ex: webkit, etc)
 
@@ -13,7 +15,18 @@
 ## Radix-ui
 - Ferramente de componentes não estilizados
 
--
+# Documentação dos componentes criados (com seus estilos personalizados & default & comportamentos)
+<Descrição: Nessa URL vocẽ pode visualizar como cada componente deve se comportar (suas possiveis formas em X casos) e também visualizar como utilizar eles (propriedades, testes de acessibilidades)
+URL: https://joaopnk.github.io/ReactJS_IgniteLabDesignSystem/
+
+
+## Para testes:
+- Jest (framework pra teste)
+- storybook test-libary
+- 
+
+## Mook: maneira de fazer um serviço não tenha dependencias externas enquanto estamos em desenvolvimento (ambiente)
+- Ferramenta:  mock service worker (para simular nossa api dentro do browser)
 
 
 ## Prática
